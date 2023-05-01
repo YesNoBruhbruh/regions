@@ -1,0 +1,6 @@
+name: Regions-Plugin
+version: '${version}'
+main: dev.maanraj514.regionsplugin.RegionsPlugin
+api-version: 1.16
+depend:
+  - SimpAPI
